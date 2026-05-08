@@ -1,0 +1,16 @@
+{
+      "plugin": "ScheduledRestart",
+      "enabled": true,
+      "restartTime": "00:00",
+      "timezone": "IANA_Timezone",
+      "reminderIntervalMinutes": 15,
+      "maxWaitHours": 2,
+      "restartDelaySeconds": 15,
+      "discordWebhook": "Discord_Webhook_URL",
+      "pterodactyl": {
+        "url": "ContainerURL",
+        "apiKey": "Your_API_Key",
+        "serverId": "ServerID"
+    }
+      
+ }
