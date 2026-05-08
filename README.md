@@ -1,4 +1,3 @@
-[README.txt](https://github.com/user-attachments/files/27528220/README.txt)
 # ScheduledRestart Plugin
 
 A SquadJS plugin that performs automated daily server restarts.
